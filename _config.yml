@@ -10,17 +10,17 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Joc"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Jocelyn Garcia"
+resume_title:                   "D1 Student Athlete at George Washington University"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "jocelyn.garcia@gwu.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_address:         "18 Oceanview Avenue, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "18 Oceanview Avenue, Springfield • 555-7334"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
